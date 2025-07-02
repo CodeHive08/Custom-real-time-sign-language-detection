@@ -1,7 +1,7 @@
 # Real-Time Sign Language Detection
 
 A web application that uses a Teachable Machine image model and your webcam to recognize and display sign language gestures in real time. Built with HTML, CSS, and JavaScript, and deployable on any static hosting service (like GitHub Pages).
-
+Live demo:https://signlan.netlify.app/
 ## Features
 - **Real-time webcam sign language detection**
 - **Animated prediction bars** for each class
