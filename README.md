@@ -10,14 +10,18 @@ Live demo:https://signlan.netlify.app/
 - **Easy deployment** (no backend required)
 
 ## Demo
-![Demo Screenshot](demo.png)
+![image](https://github.com/user-attachments/assets/9acd9cc1-865e-489a-b29f-39c0afaff229)
+![image](https://github.com/user-attachments/assets/d36ce2fe-ce6e-493c-8e01-fcd953177602)
+![image](https://github.com/user-attachments/assets/208e19cc-02a0-4236-b5be-62416af15c4f)
+![image](https://github.com/user-attachments/assets/b9afd4f2-a440-4cf5-a96b-ef01d8fece55)
+
 
 ## Getting Started
 
 ### 1. Clone or Download
 ```
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone[ https://github.com/yourusername/your-repo-name.git](https://github.com/CodeHive08/Custom-real-time-sign-language-detection.git)
+cd Custom-real-time-sign-language-detection
 ```
 Or download and unzip the project folder.
 
